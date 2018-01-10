@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+  background: #f1f3f5;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+h1,h2,h3,h5,h6 {
+  font-weight: lighter;
+}
+
+h1{
+  font-family: 'FiraSansLight', Helvetica, Arial;
+  font-weight: lighter;
+  font-size: 2.3rem;
+}
+
+h3{
+  font-size: 1.2rem;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
+
+h5{
+  font-size: 1.15rem;
+  font-family: 'FiraMonoRegular', Helvetica, Arial;
+  color: rgb(24, 140, 194);
+  margin: 1.2rem 0px;
+}
+
+a {
+  cursor: pointer;
+  border-bottom: 2px solid rgb(204, 204, 204);
+  display: inline-block;
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover{
+  border-bottom: 2px solid rgb(24, 140, 194);
+}

@@ -1,0 +1,72 @@
+.Sidebar {
+  padding: 4rem;
+  background: #ececec;
+  height: 100%;
+  position: fixed;
+  box-shadow: 0 6px 8px rgba(85, 96, 107, 0.03), 0 1px 5px rgba(102,119,136,0.3), 0 8px 12px rgba(32, 42, 43, 0.158);
+}
+
+.Title {
+  border: none;
+}
+
+.Title:hover {
+  border: none;
+}
+
+.Title h4{
+  font-size: 1.9rem;
+  font-weight: lighter;
+  color: #333;
+  line-height: 1px;
+}
+
+.Title h4 span{
+  font-family: 'FiraMonoRegular', Helvetica, Arial, serif;
+}
+
+.Title p {
+  font-size: 13px;
+  max-width: 150px;
+  line-height: 20px;
+}
+
+.Menu ul{
+  list-style-type: none;
+  margin: 5rem 0px 0px 0px;
+}
+
+.Menu ul li {
+  margin: 1.3rem 0px 0px 0px;
+}
+
+.DevelopMsg{
+  position: absolute;
+  left:55%;
+  top:0px;
+  background:rgba(255, 166, 20, 0.6);
+  padding: 3px 10px;
+  color: #020202;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  font-size: 12px;
+  transform: translate(-50%, 0);
+  z-index: 2;
+}
+
+.CloseIcon{
+  position: relative;
+  z-index: 99;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  margin: 0px;
+  padding: 0px;
+  vertical-align: middle;
+  margin: 0px 10px 0px 0px;
+  animation-delay: 1s;
+}
+
+.CloseIcon:hover{
+  transform: scale(1.03);
+}
