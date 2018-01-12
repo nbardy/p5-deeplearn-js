@@ -70,3 +70,23 @@
 .CloseIcon:hover{
   transform: scale(1.03);
 }
+
+.Documentation ul{
+  margin: 0px 0px 0px 15px;
+}
+
+.Documentation ul li{
+  margin: 10px 0px 0px 0px;
+}
+
+.Documentation ul li a{
+  font-size: 12px;
+  margin: 0px;
+  border-bottom: 1px solid rgb(204, 204, 204);
+}
+
+.Documentation ul li a:hover{
+  font-size: 12px;
+  margin: 0px;
+  border-bottom: 1px solid rgb(58, 150, 192);
+}

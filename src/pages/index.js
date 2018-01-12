@@ -3,12 +3,12 @@ import Link from 'gatsby-link'
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import AtomLight from 'react-syntax-highlighter/styles/hljs/atom-one-light';
 
-import styles from './css/about.module.css';
+import styles from './../css/about.module.css';
 
 const Home = () => (
   <div className={styles.About}>
     <h1>p5ML<span>.js</span></h1>
-    <h2 className={styles.Description}>p5ML is a high level javascript library for machine learning. The main idea of this project is to further reduce the barriers between lower level machine learning and creative outputs using javascript.</h2>
+    <h5 className={styles.Description}>p5ML is a high level javascript library for machine learning. The main idea of this project is to further reduce the barriers between lower level machine learning and creative outputs using javascript.</h5>
     <h3>    
       p5ML provides two main functionalities:
       <br/>

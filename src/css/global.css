@@ -22,19 +22,19 @@ h1{
   font-size: 2.3rem;
 }
 
+h2{
+  font-size: 1.15rem;
+  font-family: 'FiraMonoRegular', Helvetica, Arial;
+  color: rgb(24, 140, 194);
+  margin: 1.2rem 0px;
+}
+
 h3{
   font-size: 1.2rem;
 }
 
 h4 {
   font-size: 1.4rem;
-}
-
-h5{
-  font-size: 1.15rem;
-  font-family: 'FiraMonoRegular', Helvetica, Arial;
-  color: rgb(24, 140, 194);
-  margin: 1.2rem 0px;
 }
 
 a {
@@ -47,4 +47,8 @@ a {
 
 a:hover{
   border-bottom: 2px solid rgb(24, 140, 194);
+}
+
+blockquote{
+  margin-bottom: 0rem;
 }
