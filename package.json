@@ -10,6 +10,7 @@
     "gatsby-plugin-styled-components": "2.0.4",
     "gatsby-plugin-typography": "1.7.10",
     "gatsby-remark-prismjs": "1.2.11",
+    "gatsby-remark-responsive-iframe": "1.4.16",
     "gatsby-source-filesystem": "1.5.11",
     "gatsby-transformer-remark": "1.7.27",
     "react-syntax-highlighter": "6.1.1",
