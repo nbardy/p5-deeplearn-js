@@ -1,5 +1,6 @@
 ---
-path: "/test/test"
-date: "2017-11-07"
-title: "My first blog post"
+path: "/examples/test"
+name: "test"
 ---
+
+tessst

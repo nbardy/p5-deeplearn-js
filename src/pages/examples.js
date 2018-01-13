@@ -8,7 +8,7 @@ const Examples = () => (
     <h1>Examples</h1>
     <p>A collection of simple examples built with p5ML.js</p>
     <ul>
-      <li>Simple Image Classification</li>
+      <li><Link to="/examples/simple-image-classification">Simple Image Classification</Link></li>
       <li>Live Video Image Classification</li>
       <li>KNN Image Classifier</li>
       <li>LSTM Simple Text Generation</li>

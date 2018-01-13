@@ -1,4 +1,5 @@
 ---
+title: "Documentation"
 path: "/docs/word2Vec"
 name: "Word2Vec"
 ---

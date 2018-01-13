@@ -1,4 +1,5 @@
 ---
+title: "Documentation"
 path: "/docs/knnimage"
 name: "KNN Image Classifier"
 ---

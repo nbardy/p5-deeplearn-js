@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: `/p5-deeplearn-js`,
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `p5ML Website`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -15,6 +16,13 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/docs`,
+        name: "markdown-pages",
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/examples`,
         name: "markdown-pages",
       },
     },

@@ -1,4 +1,5 @@
 ---
+title: "Documentation"
 path: "/docs/imagenet"
 name: "Imagenet"
 ---

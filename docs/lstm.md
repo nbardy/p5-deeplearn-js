@@ -1,4 +1,5 @@
 ---
+title: "Documentation"
 path: "/docs/lstm"
 name: "LSTM"
 ---

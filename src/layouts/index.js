@@ -100,7 +100,8 @@ const TemplateWrapper = ({ children }) => (
         position: 'relative',
         left: '22rem',
         padding: '2em',
-        maxWidth: '60vw'
+        maxWidth: '60vw',
+        zIndex: '1'
       }}
     >
       {children()}

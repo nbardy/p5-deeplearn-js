@@ -1,4 +1,5 @@
 ---
+title: "Documentation"
 path: "/docs/NeuralNetwork"
 name: "Neural Network"
 ---
