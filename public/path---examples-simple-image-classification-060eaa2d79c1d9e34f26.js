@@ -1,2 +1,0 @@
-webpackJsonp([0x7d987c0e6f28],{584:function(e,t){e.exports={data:{markdownRemark:{html:"<p>Simple Image Classification with the Squeezneet</p>",frontmatter:{title:"Example",path:"/examples/simple-image-classification",name:"Simple Image Net"}}},pathContext:{}}}});
-//# sourceMappingURL=path---examples-simple-image-classification-060eaa2d79c1d9e34f26.js.map

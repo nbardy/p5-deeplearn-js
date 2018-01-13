@@ -1,2 +1,0 @@
-webpackJsonp([0xe9eabc6cbf93],{582:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Not implemented yet.</p>",frontmatter:{title:"Documentation",path:"/docs/yolo",name:"Yolo"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-yolo-8ca3f2680098fb1f4ac9.js.map
