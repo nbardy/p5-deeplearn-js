@@ -37,6 +37,7 @@ module.exports = {
               classPrefix: "language-",
             },
           },
+          `gatsby-remark-responsive-iframe`
         ],
       },
     },
