@@ -7,6 +7,7 @@ require("prismjs/themes/prism.css");
 export default function Template({ data, }) {
   const { markdownRemark } = data; 
   const { frontmatter, html } = markdownRemark;
+
   return (
     <div className={style.Documentation}>
       <h1>{frontmatter.title}</h1>

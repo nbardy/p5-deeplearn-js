@@ -26,6 +26,20 @@ module.exports = {
         name: "markdown-pages",
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/glossary`,
+        name: "markdown-pages",
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/training`,
+        name: "markdown-pages",
+      },
+    },
     `gatsby-transformer-remark`,
     {
       resolve: `gatsby-transformer-remark`,

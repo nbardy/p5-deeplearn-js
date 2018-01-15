@@ -9,12 +9,12 @@ const Examples = () => (
     <p>A collection of simple examples built with p5ML.js</p>
     <ul>
       <li><Link to="/examples/simple-image-classification">Simple Image Classification</Link></li>
-      <li>Live Video Image Classification</li>
-      <li>KNN Image Classifier</li>
-      <li>LSTM Simple Text Generation</li>
-      <li>LSTM Interactive Text Generation</li>
-      <li>Training a Neural Network</li>
-      <li>Word2Vec Operations</li>
+      <li><Link to="/examples/video-classification">Live Video Image Classification</Link></li>
+      <li><Link to="/examples/knn-image-classification">KNN Image Classification</Link></li>
+      <li><Link to="/examples/lstm-simple">LSTM Simple Text Generation</Link></li>
+      <li><Link to="/examples/lstm-interactive">LSTM Interactive Text Generation</Link></li>
+      <li><Link to="/examples/neural-network">Vanilla Neural Network</Link></li>
+      <li><Link to="/examples/word2vec">Word2Vec</Link></li>
     </ul>
   </div>
 )

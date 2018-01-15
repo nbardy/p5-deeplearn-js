@@ -44,12 +44,12 @@ class Sidebar extends Component {
                 <li><Link to="/docs/yolo">Yolo</Link></li>
               </ul>}
             </li>
+            <li><Link to="/training/">Training Models</Link></li>
             <li><a href="https://github.com/ITPNYU/p5-deeplearn-js">Code</a></li>
             <br/>
             <li><Link to="/examples/">Examples</Link></li>
             <li><Link to="/experiments/">Experiments</Link></li>
             <br/>
-            <li><a href="#">Training</a></li>
             <li><Link to="/learn/">Learn</Link></li>
             <li><Link to="/glossary/">Glossary</Link></li>
           </ul>
@@ -63,7 +63,7 @@ class DevelopMsg extends Component {
   constructor() {
     super();
     this.state = {
-      show: true
+      show: false
     }
   }
 
